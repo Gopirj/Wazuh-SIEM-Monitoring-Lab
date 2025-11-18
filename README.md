@@ -57,8 +57,7 @@ This script automatically installs the Wazuh platform.
 
 Check the VM IP:
 ```
-                ifconfig
-
+ifconfig
 ```
 ### Command Explanation:
 
@@ -67,7 +66,6 @@ Check the VM IP:
 Open a browser and go to:
 ```
         https://<ubuntu-vm-ip>
-
 ```
 1.​ Accept any browser security warning due to the self-signed certificate.​
 2.​ Log in using the credentials displayed at the end of the installation script.​
