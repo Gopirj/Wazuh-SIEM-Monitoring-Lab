@@ -130,6 +130,7 @@ You can then go to the WAZUH dashboard and see the agent onboarded.
 ```
 
 ### 9. Verifying Setup
+
   1.​ Open the Wazuh Dashboard in your browser.​
   2.​ Navigate to Agents → ensure the Windows agent is listed and status is Active.​
   3.​ Go to the Integrity Monitoring section.​
